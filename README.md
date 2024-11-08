@@ -36,4 +36,4 @@ Caso tente acessar ao painel da Recepção, será retornado a você 'Acesso nega
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Logo após o preenchimento na planilha e salvamento local, a mesma pode ser imprimida e usada conforme o necessário a ser feito.
+Logo após o preenchimento na planilha e salvamento local, a mesma pode ser imprimida e usada conforme a necessidade da recepção.
