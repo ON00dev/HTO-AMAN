@@ -32,7 +32,7 @@ O usuáio preenche o furmulário e envia para fazer a reserva. No painel da Rece
 Caso tente acessar ao painel da Recepção, será retornado a você 'Acesso negado: IP nao autorizado'. Isso porque, a rota é somente acessada por endereços IPs permitidos, sendo eles especificados no código do projeto. Faça um teste aí, https://hto-aman-form-aman-hto.up.railway.app/ .
 
 ## Modelo de Planilha Seguido:
-[![planilha modelo](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/planilha.PNG)]
+[![planilha modelo](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/planilhar.PNG)]
 
 ------------------------------------------------------------------------------------------------------------------------------
 
