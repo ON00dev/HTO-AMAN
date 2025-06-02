@@ -2,7 +2,7 @@
 Repositório dedicado para apresentar o projeto de **Registro de Hóspedes** do **Hotel de trânsito de Oficiais** da AMAN.
 -----------------------------------------------------------------------------------------------------------------------
 Para reservar um quarto, o hóspede deve preencher uma ficha onde é solicitado diversas informações pessoais e militares.
-Para isso, ao acessar https://hto-aman-form-aman-hto.up.railway.app/form , o hóspede poderá fazer sua ficha a qualquer momento e lugar, facilitando a experiência do mesmo.
+Para isso, ao acessar https://hto-aman-recep.up.railway.app/form , o hóspede poderá fazer sua ficha a qualquer momento e lugar, facilitando a experiência do mesmo.
 ### Veja um Exemplo:
 [![Assistir ao video](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/miniatura-form.PNG)](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/criando%20ficha.mp4) *clique para assisir*
 
@@ -29,7 +29,7 @@ O usuáio preenche o furmulário e envia para fazer a reserva. No painel da Rece
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-Caso tente acessar ao painel da Recepção, será retornado a você 'Acesso negado: IP nao autorizado'. Isso porque, a rota é somente acessada por endereços IPs permitidos, sendo eles especificados no código do projeto. Faça um teste aí, https://hto-aman-form-aman-hto.up.railway.app/ .
+Caso tente acessar ao painel da Recepção, será retornado a você 'Acesso negado: IP nao autorizado'. Isso porque, a rota é somente acessada por endereços IPs permitidos, sendo eles especificados no código do projeto. Faça um teste aí, https://hto-aman-recep.up.railway.app/ .
 
 ## Modelo de Planilha Seguido:
 [![planilha modelo](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/planilhar.PNG)]
