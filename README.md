@@ -16,7 +16,7 @@ O usuáio preenche o furmulário e envia para fazer a reserva. No painel da Rece
 
 
   ### Veja um Exemplo:
-  [![Assistir ao video](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/miniatura-recep.PNG)](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/painel%20recepcao.mp4) *clique para assistir*
+  [![Assistir ao video](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/recep.jpeg)](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/painel%20recepcao.mp4) *clique para assistir*
 
   ## O que faz cada Ação?
 
