@@ -4,7 +4,7 @@ Repositório dedicado para apresentar o projeto de **Registro de Hóspedes** do 
 Para reservar um quarto, o hóspede deve preencher uma ficha onde é solicitado diversas informações pessoais e militares.
 Para isso, ao acessar https://hto-aman-recep.up.railway.app/form , o hóspede poderá fazer sua ficha a qualquer momento e lugar, facilitando a experiência do mesmo.
 ### Veja um Exemplo:
-[![Assistir ao video](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/miniatura-form.PNG)](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/criando-ficha.gif)
+[![Assistir ao video](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/miniatura-form.PNG)](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/criando-ficha.gif) **clique para assistir**
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ O usuáio preenche o furmulário e envia para fazer a reserva. No painel da Rece
 
 
   ### Veja um Exemplo:
-  [![Assistir ao video](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/recep.jpeg)](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/painel-recepcao.gif)
+  [![Assistir ao video](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/recep.jpeg)](https://github.com/ON00dev/HTO-AMAN/blob/main/exemplos/painel-recepcao.gif) **clique para assistir**
 
   ## O que faz cada Ação?
 
